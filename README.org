@@ -1,0 +1,9 @@
+* Initially there is an idea
+
+Lightweight texture analysis tools
+A python package to work on with the whole package for now
+
+* GOALS
+
+- [ ] Working with the type checker and with all the important features
+- [ ] For now we will create a wave indicator that shows the similarity each frame for a photograph
